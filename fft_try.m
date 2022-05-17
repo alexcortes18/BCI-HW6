@@ -1,3 +1,4 @@
+%%
 % this is with the FFT function from professor + the .mat files from the
 % MAMEN dataset = https://figshare.com/articles/dataset/MAMEM_EEG_SSVEP_Dataset_I_256_channels_11_subjects_5_frequencies_/2068677
 
